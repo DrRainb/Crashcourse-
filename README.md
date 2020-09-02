@@ -6,9 +6,11 @@ John Backus made a programming system to make programs easier to write.
 
 
 
-Operating systems:\n
+Operating systems:
 operating systems were made so that running computers would be more efficient.
 computers do batch processing.
 computers got so fast that they were constantly waiting for slower things like people gathering no programs.
 Atlas supervisor allowed for a single CPU to run multiple things by putting some code to sleep while working on other things. 
 to avoid memory loss programs were always allocated their own set of memory. 
+Atlas had vertual and physical memory.
+UNIX was an upgrades version of a previous OS. Core things it delt with were things called kernels
